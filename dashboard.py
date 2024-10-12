@@ -22,19 +22,19 @@ Bukannya mau ku paksa ki untuk pertahankan tapi ya mauja minta maaf.
 Karena biarpun bagaimana, kau masih tetap orang yang paling ku sayang saat ini. I love You Pia ❤❤😊
 """)
 
-# Nama file gambar dengan path foldernya
-image1 = "DashboardPia/1.jpg"
-image2 = "DashboardPia/2.jpg"
-image3 = "DashboardPia/3.jpg"
-image4 = "DashboardPia/4.jpg"
-image5 = "DashboardPia/5.jpg"
-image6 = "DashboardPia/6.png"
-image7 = "DashboardPia/7.jpg"
-image9 = "DashboardPia/9.jpg"
-image10 = "DashboardPia/10.jpg"
-image11 = "DashboardPia/11.jpg"
-image12 = "DashboardPia/12.jpg"
-image13 = "DashboardPia/13.jpg"
+# Nama file gambar
+image1 = "1.jpg"
+image2 = "2.jpg"
+image3 = "3.jpg"
+image4 = "4.jpg"
+image5 = "5.jpg"
+image6 = "6.png"
+image7 = "7.jpg"
+image9 = "9.jpg"
+image10 = "10.jpg"
+image11 = "11.jpg"
+image12 = "12.jpg"
+image13 = "13.jpg"
 
 
 # Tambahkan gambar dengan kolom
