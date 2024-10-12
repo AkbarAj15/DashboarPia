@@ -36,6 +36,7 @@ image11 = "11.jpg"
 image12 = "12.jpg"
 image13 = "13.jpg"
 
+
 # Tambahkan gambar dengan kolom
 col1, col2, col3 = st.columns(3)
 with col1:
