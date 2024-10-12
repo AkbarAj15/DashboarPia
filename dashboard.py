@@ -24,8 +24,8 @@ Karena biarpun bagaimana, kau masih tetap orang yang paling ku sayang saat ini. 
 
 # Nama file gambar
 image1 = "1.jpg"
-image2 = "2.jpg"
-image3 = "3.JPG"
+image2 = "16.jpg"
+image3 = "17.jpg"
 image4 = "4.jpg"
 image5 = "5.jpg"
 image6 = "6.png"
