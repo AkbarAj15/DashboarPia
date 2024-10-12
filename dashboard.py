@@ -16,7 +16,9 @@ with st.sidebar:
 # Tambahkan deskripsi atau pesan
 st.write("""
 Fadiyah Nur Aulia Sari yang termanis dan cantik, Seleb timika dengan 2k followers, seleb tiktok, pintar masak, suka semua makanan.  
-Akbar mau minta maaf ya, perihal kamu mau tunggu saya berubah atau tidak itu hak ta beb, tapi mauja minta maaf. 
+Akbar mau minta maaf ya, perihal kamu mau tunggu saya berubah atau tidak itu hak ta beb, tapi mauja minta maaf.
+Semua hal sudah dilewati beb, makan, mandi, tidur, pergi keluar kota, kemanapun sudah banyak yang dilalui sama-sama. 
+Bukannya mau ku paksa ki untuk pertahankan tapi ya mauja minta maaf. 
 Karena biarpun bagaimana, kau masih tetap orang yang paling ku sayang saat ini. I love You Pia ❤❤😊
 """)
 
